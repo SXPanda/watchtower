@@ -16,6 +16,7 @@ module.exports = {
     'html'
   ],
   'rules': {
+    'no-plusplus': 0,
     'linebreak-style': 0,
     'global-require': 0,
     'import/no-unresolved': 0,

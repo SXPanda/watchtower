@@ -1,0 +1,15 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: white;
+}
+
+table {
+  text-align: center;
+
+  tr.odd {
+    background-color: #eee;
+  }
+}

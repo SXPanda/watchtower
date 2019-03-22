@@ -26,29 +26,23 @@
         </tr>
       </tbody>
     </table>
-    <el-button
-      type="primary"
-      @click="getUserData"
-    >
-      Load data
-    </el-button>
+    <footer-bar />
   </div>
 </template>
 
 <script>
 import { ipcRenderer } from 'electron';
+import FooterBar from './partials/FooterBar';
 
 export default {
   name: 'Home',
+  components: {
+    FooterBar,
+  },
   data() {
     return {
       users: false,
     };
-  },
-  methods: {
-    getUserData() {
-      ipcRenderer.send('get-user-data', 'ping');
-    },
   },
   created() {
     ipcRenderer.on('set-user-data', (e, users) => {

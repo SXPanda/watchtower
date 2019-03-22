@@ -1,4 +1,6 @@
-import { app, BrowserWindow } from 'electron' // eslint-disable-line
+import { app, BrowserWindow, ipcMain } from 'electron' // eslint-disable-line
+import curl from 'curl-cmd';
+import { exec } from 'child_process';
 
 /**
  * Set `__static` path to static files in production
@@ -63,3 +65,37 @@ app.on('ready', () => {
   if (process.env.NODE_ENV === 'production') autoUpdater.checkForUpdates()
 })
  */
+
+ipcMain.on('test-message', (e, value) => {
+  console.log(value);
+  const ApiKey = '72ff3fe2c789499d8afdcd9d86bb21770eae367ac2f240caa7cf9ff7647c1026';
+  const options = {
+    hostname: 'sentry.io',
+    ssl: true,
+    port: 443,
+    path: '/api/0/projects/',
+    mehod: 'GET',
+    headers: {
+      Authorization: `Bearer ${ApiKey}`,
+    },
+  };
+  const command = curl.cmd(options, { ssl: true }).replace(/'/g, '"');
+
+  exec(command, (error, stdout, stderr) => {
+    if (error) {
+      console.error(`exec error: ${error}`);
+      return;
+    }
+    console.log(`stdout: ${stdout}`);
+    console.log(`stderr: ${stderr}`);
+  });
+  /* curl.get(
+    'https://sentry.io/api/0/projects/',
+    options,
+    (err, response, body) => {
+      // console.log(response);
+      console.log(body);
+      // console.log(err);
+    },
+  ); */
+});

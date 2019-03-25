@@ -2,7 +2,7 @@ import curl from 'curl-cmd';
 import { exec } from 'child_process';
 
 export default class Sentry {
-  authToken = '72ff3fe2c789499d8afdcd9d86bb21770eae367ac2f240caa7cf9ff7647c1026';
+  authToken = ''; /** Add your Sentry auth token here **/
   baseUrl = 'sentry.io';
 
   organization = false;

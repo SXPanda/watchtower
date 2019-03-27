@@ -37,15 +37,12 @@ export default class Sentry {
       this.listProjects().then((projects) => {
         this.projects = projects;
 
-        console.log(this.projects.length);
-
         for (let i = 0, l = this.projects.length; i < l; ++i) {
           this.project = this.projects[i].slug;
           // eslint-disable-next-line
           const project = this.project;
           this.listIssues().then((issues) => {
             this.issues[project] = issues;
-            console.log(Object.keys(this.issues).length, l);
             if (Object.keys(this.issues).length === l) {
               resolve(this.issues);
             }

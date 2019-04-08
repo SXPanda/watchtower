@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -6,72 +8,100 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 210 297"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
    height="297mm"
-   width="210mm">
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="z-drive-logo.svg">
   <defs
      id="defs2">
     <linearGradient
-       id="linearGradient4565">
+       id="linearGradient4565"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#aa2535;stop-opacity:0.98431373"
+         id="stop4561"
          offset="0"
-         id="stop4561" />
+         style="stop-color:#aa2535;stop-opacity:0.98431373" />
       <stop
-         style="stop-color:#832ed3;stop-opacity:1"
+         id="stop4563"
          offset="1"
-         id="stop4563" />
+         style="stop-color:#832ed3;stop-opacity:1" />
     </linearGradient>
     <linearGradient
+       inkscape:collect="always"
        id="linearGradient839-8">
       <stop
-         id="stop835"
+         style="stop-color:#440e36;stop-opacity:1"
          offset="0"
-         style="stop-color:#440e36;stop-opacity:1" />
+         id="stop835" />
       <stop
-         id="stop837"
+         style="stop-color:#a82344;stop-opacity:1"
          offset="1"
-         style="stop-color:#a82344;stop-opacity:1" />
+         id="stop837" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0.65993332,0,0,0.33466374,42.011695,17.44695)"
-       gradientUnits="userSpaceOnUse"
-       y2="-52.054001"
-       x2="-63.610146"
-       y1="245.68425"
-       x1="-63.610146"
+       inkscape:collect="always"
+       xlink:href="#linearGradient839-8"
        id="linearGradient841"
-       xlink:href="#linearGradient839-8" />
-    <linearGradient
-       gradientTransform="matrix(0.65993332,0,0,0.65993332,-7.7054586,-5.148331)"
+       x1="-63.610146"
+       y1="245.68425"
+       x2="-63.610146"
+       y2="-52.054001"
        gradientUnits="userSpaceOnUse"
-       y2="30.68334"
-       x2="39.333698"
-       y1="133.44971"
-       x1="140.49644"
+       gradientTransform="matrix(0.65993332,0,0,0.33466374,42.011695,17.44695)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4565"
        id="linearGradient4554"
-       xlink:href="#linearGradient4565" />
-    <linearGradient
-       gradientTransform="matrix(0.65993332,0,0,0.65993332,-7.9766436,94.436042)"
-       gradientUnits="userSpaceOnUse"
-       y2="30.68334"
-       x2="39.333698"
-       y1="133.44971"
        x1="140.49644"
+       y1="133.44971"
+       x2="39.333698"
+       y2="30.68334"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.65993332,0,0,0.65993332,-7.7054586,-5.148331)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4565"
        id="linearGradient4554-7"
-       xlink:href="#linearGradient4565" />
-    <linearGradient
-       gradientTransform="matrix(0.65993332,0,0,0.65993332,-8.5554818,188.7867)"
-       gradientUnits="userSpaceOnUse"
-       y2="30.68334"
-       x2="39.333698"
-       y1="133.44971"
        x1="140.49644"
+       y1="133.44971"
+       x2="39.333698"
+       y2="30.68334"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.65993332,0,0,0.65993332,-7.9766436,94.436042)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4565"
        id="linearGradient4554-7-7"
-       xlink:href="#linearGradient4565" />
+       x1="140.49644"
+       y1="133.44971"
+       x2="39.333698"
+       y2="30.68334"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.65993332,0,0,0.65993332,-8.5554818,188.7867)" />
   </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497474"
+     inkscape:cx="-177.56908"
+     inkscape:cy="493.43731"
+     inkscape:document-units="mm"
+     inkscape:current-layer="flowRoot825-2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -80,127 +110,153 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1">
     <rect
-       y="99.668564"
-       x="0.03324578"
-       height="99.642189"
-       width="209.53952"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.11748824;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect833-7"
-       style="fill:#000000;fill-opacity:1;stroke-width:0.11748824;stroke-miterlimit:4;stroke-dasharray:none" />
-    <rect
-       y="0.026368009"
-       x="0.03324578"
-       height="99.642189"
        width="209.53952"
+       height="99.642189"
+       x="0.03324578"
+       y="99.668564" />
+    <rect
+       style="fill:url(#linearGradient841);fill-opacity:1;stroke-width:0.11748824;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect833"
-       style="fill:url(#linearGradient841);fill-opacity:1;stroke-width:0.11748824;stroke-miterlimit:4;stroke-dasharray:none" />
+       width="209.53952"
+       height="99.642189"
+       x="0.03324578"
+       y="0.026368009" />
     <circle
-       r="33.175396"
-       cy="47.923271"
-       cx="50.912724"
+       style="fill:url(#linearGradient4554);fill-opacity:1;stroke-width:0.16498333;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4546"
-       style="fill:url(#linearGradient4554);fill-opacity:1;stroke-width:0.16498333;stroke-miterlimit:4;stroke-dasharray:none" />
-    <flowRoot
+       cx="50.912724"
+       cy="47.923271"
+       r="33.175396" />
+    <g
+       aria-label="Z"
        transform="matrix(0.26302427,0,0,0.26302427,5.9223111,-10.685364)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="flowRoot825"
-       xml:space="preserve"><flowRegion
+       id="flowRoot825">
+      <path
+         d="m 227.63867,269.5166 v 16.5 H 109.41992 l 83.90625,-114.46875 h -78.5625 v -16.5 h 112.875 L 143.91992,269.5166 Z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-         id="flowRegion827"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-           y="118.42805"
-           x="107.07617"
-           height="292.26028"
-           width="401.41791"
-           id="rect829" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-         id="flowPara831">Z</flowPara></flowRoot>    <flowRoot
+         id="path865" />
+    </g>
+    <g
+       aria-label="drive"
        transform="matrix(0.26302427,0,0,0.26302427,61.780383,-11.079595)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="flowRoot825-2"
-       xml:space="preserve"><flowRegion
+       id="flowRoot825-2">
+      <path
+         d="m 158.35742,286.0166 q -15.5625,0 -25.5,-6.375 -9.84375,-6.46875 -14.34375,-16.125 -4.5,-9.75 -4.5,-20.15625 0,-14.15625 5.8125,-24.375 5.90625,-10.3125 15.65625,-15.5625 9.84375,-5.34375 21.09375,-5.34375 9.09375,0 18.65625,3.46875 v -46.5 h 17.0625 V 286.0166 Z m 3.46875,-15 h 13.40625 v -53.90625 q -7.5,-4.03125 -17.0625,-4.03125 -11.90625,0 -19.40625,8.0625 -7.5,8.0625 -7.5,22.40625 0,13.125 7.96875,20.34375 7.96875,7.125 22.59375,7.125 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-         id="flowRegion827-6"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-           y="118.42805"
-           x="107.07617"
-           height="277.50742"
-           width="595.88751"
-           id="rect829-5" /></flowRegion><flowPara
+         id="path868" />
+      <path
+         d="m 279.29492,207.8291 -9.09375,15 q -3.84375,-3.65625 -8.4375,-6 -4.59375,-2.4375 -8.0625,-2.4375 -4.40625,0 -9.1875,3.1875 -4.78125,3.1875 -7.96875,9.09375 -3.1875,5.8125 -3.1875,13.5 v 45.84375 h -17.0625 v -86.25 h 17.0625 v 19.78125 q 7.125,-11.71875 13.21875,-16.59375 6.1875,-4.875 12.5625,-4.875 5.15625,0 10.40625,2.71875 5.25,2.625 9.75,7.03125 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-         id="flowPara831-7">drive</flowPara></flowRoot>    <circle
-       r="33.175392"
-       cy="147.50764"
-       cx="50.641541"
+         id="path870" />
+      <path
+         d="m 310.32617,173.5166 q 0,4.03125 -3,7.125 -3,3 -7.21875,3 -4.21875,0 -7.125,-3.09375 -2.8125,-3.1875 -2.8125,-7.03125 0,-3.84375 2.8125,-6.9375 2.90625,-3.09375 7.125,-3.09375 4.21875,0 7.21875,3 3,3 3,7.03125 z m -18.65625,112.5 v -86.25 h 17.0625 v 86.25 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
+         id="path872" />
+      <path
+         d="m 385.51367,199.7666 h 18.46875 l -38.0625,87.9375 h -5.71875 l -39,-87.9375 h 18.65625 l 23.15625,53.0625 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
+         id="path874" />
+      <path
+         d="m 485.91992,242.61035 v 1.78125 h -60.65625 q 0.9375,12.28125 8.34375,19.6875 7.40625,7.3125 19.5,7.3125 8.25,0 16.3125,-2.625 8.0625,-2.71875 15,-7.875 v 16.6875 q -8.25,5.53125 -16.21875,7.875 -7.96875,2.25 -17.4375,2.25 -11.625,0 -21.46875,-5.53125 -9.75,-5.53125 -15.5625,-15.75 -5.71875,-10.3125 -5.71875,-24.1875 0,-12.46875 4.96875,-22.5 4.96875,-10.125 14.0625,-15.84375 9.1875,-5.8125 21.28125,-5.8125 10.6875,0 19.21875,5.34375 8.625,5.25 13.5,15.375 4.875,10.03125 4.875,23.8125 z M 448.13867,212.8916 q -9,0 -15.375,6.1875 -6.375,6.09375 -7.125,15.09375 h 43.40625 q -0.5625,-9.9375 -6,-15.5625 -5.34375,-5.71875 -14.90625,-5.71875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
+         id="path876" />
+    </g>
+    <circle
+       style="fill:url(#linearGradient4554-7);fill-opacity:1;stroke-width:0.16498333;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4546-0"
-       style="fill:url(#linearGradient4554-7);fill-opacity:1;stroke-width:0.16498333;stroke-miterlimit:4;stroke-dasharray:none" />
-    <flowRoot
+       cx="50.641541"
+       cy="147.50764"
+       r="33.175392" />
+    <g
+       aria-label="Z"
        transform="matrix(0.26302427,0,0,0.26302427,5.651126,88.89901)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="flowRoot825-9"
-       xml:space="preserve"><flowRegion
+       id="flowRoot825-9">
+      <path
+         d="m 227.63867,269.5166 v 16.5 H 109.41992 l 83.90625,-114.46875 h -78.5625 v -16.5 h 112.875 L 143.91992,269.5166 Z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-         id="flowRegion827-7"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-           y="118.42805"
-           x="107.07617"
-           height="292.26028"
-           width="401.41791"
-           id="rect829-1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-         id="flowPara831-3">Z</flowPara></flowRoot>    <flowRoot
+         id="path862" />
+    </g>
+    <g
+       aria-label="drive"
        transform="matrix(0.26302427,0,0,0.26302427,61.5092,88.504778)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="flowRoot825-2-0"
-       xml:space="preserve"><flowRegion
+       id="flowRoot825-2-0">
+      <path
+         d="m 158.35742,286.0166 q -15.5625,0 -25.5,-6.375 -9.84375,-6.46875 -14.34375,-16.125 -4.5,-9.75 -4.5,-20.15625 0,-14.15625 5.8125,-24.375 5.90625,-10.3125 15.65625,-15.5625 9.84375,-5.34375 21.09375,-5.34375 9.09375,0 18.65625,3.46875 v -46.5 h 17.0625 V 286.0166 Z m 3.46875,-15 h 13.40625 v -53.90625 q -7.5,-4.03125 -17.0625,-4.03125 -11.90625,0 -19.40625,8.0625 -7.5,8.0625 -7.5,22.40625 0,13.125 7.96875,20.34375 7.96875,7.125 22.59375,7.125 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-         id="flowRegion827-6-0"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-           y="118.42805"
-           x="107.07617"
-           height="277.50742"
-           width="595.88751"
-           id="rect829-5-2" /></flowRegion><flowPara
+         id="path890" />
+      <path
+         d="m 279.29492,207.8291 -9.09375,15 q -3.84375,-3.65625 -8.4375,-6 -4.59375,-2.4375 -8.0625,-2.4375 -4.40625,0 -9.1875,3.1875 -4.78125,3.1875 -7.96875,9.09375 -3.1875,5.8125 -3.1875,13.5 v 45.84375 h -17.0625 v -86.25 h 17.0625 v 19.78125 q 7.125,-11.71875 13.21875,-16.59375 6.1875,-4.875 12.5625,-4.875 5.15625,0 10.40625,2.71875 5.25,2.625 9.75,7.03125 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-         id="flowPara831-7-1">drive</flowPara></flowRoot>    <circle
-       r="33.175392"
-       cy="241.85831"
-       cx="50.062702"
+         id="path892" />
+      <path
+         d="m 310.32617,173.5166 q 0,4.03125 -3,7.125 -3,3 -7.21875,3 -4.21875,0 -7.125,-3.09375 -2.8125,-3.1875 -2.8125,-7.03125 0,-3.84375 2.8125,-6.9375 2.90625,-3.09375 7.125,-3.09375 4.21875,0 7.21875,3 3,3 3,7.03125 z m -18.65625,112.5 v -86.25 h 17.0625 v 86.25 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
+         id="path894" />
+      <path
+         d="m 385.51367,199.7666 h 18.46875 l -38.0625,87.9375 h -5.71875 l -39,-87.9375 h 18.65625 l 23.15625,53.0625 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
+         id="path896" />
+      <path
+         d="m 485.91992,242.61035 v 1.78125 h -60.65625 q 0.9375,12.28125 8.34375,19.6875 7.40625,7.3125 19.5,7.3125 8.25,0 16.3125,-2.625 8.0625,-2.71875 15,-7.875 v 16.6875 q -8.25,5.53125 -16.21875,7.875 -7.96875,2.25 -17.4375,2.25 -11.625,0 -21.46875,-5.53125 -9.75,-5.53125 -15.5625,-15.75 -5.71875,-10.3125 -5.71875,-24.1875 0,-12.46875 4.96875,-22.5 4.96875,-10.125 14.0625,-15.84375 9.1875,-5.8125 21.28125,-5.8125 10.6875,0 19.21875,5.34375 8.625,5.25 13.5,15.375 4.875,10.03125 4.875,23.8125 z M 448.13867,212.8916 q -9,0 -15.375,6.1875 -6.375,6.09375 -7.125,15.09375 h 43.40625 q -0.5625,-9.9375 -6,-15.5625 -5.34375,-5.71875 -14.90625,-5.71875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
+         id="path898" />
+    </g>
+    <circle
+       style="fill:url(#linearGradient4554-7-7);fill-opacity:1;stroke-width:0.16498333;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4546-0-0"
-       style="fill:url(#linearGradient4554-7-7);fill-opacity:1;stroke-width:0.16498333;stroke-miterlimit:4;stroke-dasharray:none" />
-    <flowRoot
+       cx="50.062702"
+       cy="241.85831"
+       r="33.175392" />
+    <g
+       aria-label="Z"
        transform="matrix(0.26302427,0,0,0.26302427,5.0722876,183.24967)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="flowRoot825-9-3"
-       xml:space="preserve"><flowRegion
+       id="flowRoot825-9-3">
+      <path
+         d="m 227.63867,269.5166 v 16.5 H 109.41992 l 83.90625,-114.46875 h -78.5625 v -16.5 h 112.875 L 143.91992,269.5166 Z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-         id="flowRegion827-7-9"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-           y="118.42805"
-           x="107.07617"
-           height="292.26028"
-           width="401.41791"
-           id="rect829-1-9" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#ffffff;fill-opacity:1"
-         id="flowPara831-3-4">Z</flowPara></flowRoot>    <flowRoot
+         id="path859" />
+    </g>
+    <g
+       aria-label="drive"
        transform="matrix(0.26302427,0,0,0.26302427,60.930361,182.85543)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot825-2-0-6"
-       xml:space="preserve"><flowRegion
+       id="flowRoot825-2-0-6">
+      <path
+         d="m 158.35742,286.0166 q -15.5625,0 -25.5,-6.375 -9.84375,-6.46875 -14.34375,-16.125 -4.5,-9.75 -4.5,-20.15625 0,-14.15625 5.8125,-24.375 5.90625,-10.3125 15.65625,-15.5625 9.84375,-5.34375 21.09375,-5.34375 9.09375,0 18.65625,3.46875 v -46.5 h 17.0625 V 286.0166 Z m 3.46875,-15 h 13.40625 v -53.90625 q -7.5,-4.03125 -17.0625,-4.03125 -11.90625,0 -19.40625,8.0625 -7.5,8.0625 -7.5,22.40625 0,13.125 7.96875,20.34375 7.96875,7.125 22.59375,7.125 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#000000;fill-opacity:1"
-         id="flowRegion827-6-0-2"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#000000;fill-opacity:1"
-           y="118.42805"
-           x="107.07617"
-           height="277.50742"
-           width="595.88751"
-           id="rect829-5-2-2" /></flowRegion><flowPara
+         id="path879" />
+      <path
+         d="m 279.29492,207.8291 -9.09375,15 q -3.84375,-3.65625 -8.4375,-6 -4.59375,-2.4375 -8.0625,-2.4375 -4.40625,0 -9.1875,3.1875 -4.78125,3.1875 -7.96875,9.09375 -3.1875,5.8125 -3.1875,13.5 v 45.84375 h -17.0625 v -86.25 h 17.0625 v 19.78125 q 7.125,-11.71875 13.21875,-16.59375 6.1875,-4.875 12.5625,-4.875 5.15625,0 10.40625,2.71875 5.25,2.625 9.75,7.03125 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#000000;fill-opacity:1"
-         id="flowPara831-7-1-5">drive</flowPara></flowRoot>  </g>
+         id="path881" />
+      <path
+         d="m 310.32617,173.5166 q 0,4.03125 -3,7.125 -3,3 -7.21875,3 -4.21875,0 -7.125,-3.09375 -2.8125,-3.1875 -2.8125,-7.03125 0,-3.84375 2.8125,-6.9375 2.90625,-3.09375 7.125,-3.09375 4.21875,0 7.21875,3 3,3 3,7.03125 z m -18.65625,112.5 v -86.25 h 17.0625 v 86.25 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#000000;fill-opacity:1"
+         id="path883" />
+      <path
+         d="m 385.51367,199.7666 h 18.46875 l -38.0625,87.9375 h -5.71875 l -39,-87.9375 h 18.65625 l 23.15625,53.0625 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#000000;fill-opacity:1"
+         id="path885" />
+      <path
+         d="m 485.91992,242.61035 v 1.78125 h -60.65625 q 0.9375,12.28125 8.34375,19.6875 7.40625,7.3125 19.5,7.3125 8.25,0 16.3125,-2.625 8.0625,-2.71875 15,-7.875 v 16.6875 q -8.25,5.53125 -16.21875,7.875 -7.96875,2.25 -17.4375,2.25 -11.625,0 -21.46875,-5.53125 -9.75,-5.53125 -15.5625,-15.75 -5.71875,-10.3125 -5.71875,-24.1875 0,-12.46875 4.96875,-22.5 4.96875,-10.125 14.0625,-15.84375 9.1875,-5.8125 21.28125,-5.8125 10.6875,0 19.21875,5.34375 8.625,5.25 13.5,15.375 4.875,10.03125 4.875,23.8125 z M 448.13867,212.8916 q -9,0 -15.375,6.1875 -6.375,6.09375 -7.125,15.09375 h 43.40625 q -0.5625,-9.9375 -6,-15.5625 -5.34375,-5.71875 -14.90625,-5.71875 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Gill Sans Nova';-inkscape-font-specification:'Gill Sans Nova';fill:#000000;fill-opacity:1"
+         id="path887" />
+    </g>
+  </g>
 </svg>

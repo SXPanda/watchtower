@@ -9,6 +9,6 @@ pullRequestOpened: >
   
   Please make sure you have completed the following:
   
-  - [] Tested on all major browsers
-  - [] Signed off UX
-  - [] Tested a new build
+  - [ ] Tested on all major browsers
+  - [ ] Signed off UX
+  - [ ] Tested a new build
